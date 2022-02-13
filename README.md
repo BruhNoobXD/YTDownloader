@@ -1,2 +1,2 @@
 # YTDownloader
-A funny YouTube video downloader.
+A YouTube video downloader made with Python.
