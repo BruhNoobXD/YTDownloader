@@ -46,4 +46,4 @@ import io
 Feel free to contact me on discord: BruhNoobXD#5163
 
 ## License
-[Apache License 2.0](https://choosealicense.com/licenses/apache-2.0/)
+[MIT](https://choosealicense.com/licenses/mit/)
